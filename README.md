@@ -1,2 +1,2 @@
-# Function-Generator-
+# Function-Generator
 A Waveform Generator is essentially a signal generator that produces various types of waveforms at the output. It can generate waveforms such as sine waves, square waves, and triangular waves, among others. The circuit operates based on the principle of utilizing op-amps.The LM324 is a quad op-amp, meaning it consists of four independent op-amps. In this waveform generator, the first op-amp generates a square wave. Subsequently, the circuit employs two integrator circuits to convert the square wave into triangle and sine wave signals.The frequencies of these waveforms can be adjusted from hertz to several hundred kilohertz. Analog function generators and digital function generators are both types of function generators.
